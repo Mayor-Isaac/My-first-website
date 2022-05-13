@@ -1,0 +1,75 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+.top-container {
+  position: relative;
+  background-color: #79DAE8;
+  height: 500px;
+}
+.bottom-container{
+  background-color:#79DAE8;
+  height: auto;
+}
+#top-image {
+  position: relative;
+  right: 200px;
+  height: 150px;
+  top: 150px;
+}
+#top-image-2 {
+  position: relative;
+  left: 350px;
+  height: 150px;
+  bottom: 200px;
+}
+#mountain {
+  height: 200px;
+  position: relative;
+  bottom: 0px;
+  right: 50px;
+}
+h1 {
+  color: maroon;
+  position: relative;
+  left: 20px;
+  font-family: sacramento;
+}
+#profile-pic {
+  height: 200px;
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+h2 {
+  color: maroon;
+  text-align: center;
+  padding-bottom: 10px;
+}
+#html {
+  height: 150px;
+  padding-top: 50px;
+}
+#Javascript{
+  height: 150px;
+  position: relative;
+  top: 30px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+#menu-1{
+  height: 50px;
+  position: relative;
+  left: 3px;
+}
+#menu-2{
+  height: 50px;
+  position: relative;
+  right: 3px;
+}
+#contact-me{
+  height: 80px;
+}
+p{
+  padding-top: _100px;
+}
